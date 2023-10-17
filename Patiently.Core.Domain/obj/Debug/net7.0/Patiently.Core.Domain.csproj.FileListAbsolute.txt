@@ -1,0 +1,11 @@
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Domain\bin\Debug\net7.0\Patiently.Core.Domain.deps.json
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Domain\bin\Debug\net7.0\Patiently.Core.Domain.dll
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Domain\bin\Debug\net7.0\Patiently.Core.Domain.pdb
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Domain\obj\Debug\net7.0\Patiently.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Domain\obj\Debug\net7.0\Patiently.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Domain\obj\Debug\net7.0\Patiently.Core.Domain.AssemblyInfo.cs
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Domain\obj\Debug\net7.0\Patiently.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Domain\obj\Debug\net7.0\Patiently.Core.Domain.dll
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Domain\obj\Debug\net7.0\refint\Patiently.Core.Domain.dll
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Domain\obj\Debug\net7.0\Patiently.Core.Domain.pdb
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Domain\obj\Debug\net7.0\ref\Patiently.Core.Domain.dll

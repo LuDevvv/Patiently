@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Infrastructure.Persistence\\Patiently.Infrastructure.Persistence.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Core.Application\\Patiently.Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Core.Application\\Patiently.Core.Application.csproj",
+        "projectName": "Patiently.Core.Application",
+        "projectPath": "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Core.Application\\Patiently.Core.Application.csproj",
+        "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Core.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZHX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Core.Domain\\Patiently.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Core.Domain\\Patiently.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Core.Domain\\Patiently.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Core.Domain\\Patiently.Core.Domain.csproj",
+        "projectName": "Patiently.Core.Domain",
+        "projectPath": "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Core.Domain\\Patiently.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZHX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Infrastructure.Persistence\\Patiently.Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Infrastructure.Persistence\\Patiently.Infrastructure.Persistence.csproj",
+        "projectName": "Patiently.Infrastructure.Persistence",
+        "projectPath": "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Infrastructure.Persistence\\Patiently.Infrastructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\ZHX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Infrastructure.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ZHX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Core.Application\\Patiently.Core.Application.csproj": {
+                "projectPath": "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Core.Application\\Patiently.Core.Application.csproj"
+              },
+              "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Core.Domain\\Patiently.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\ZHX\\Desktop\\Patiently\\Patiently\\Patiently.Core.Domain\\Patiently.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

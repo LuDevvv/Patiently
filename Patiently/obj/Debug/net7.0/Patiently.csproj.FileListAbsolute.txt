@@ -1,0 +1,8 @@
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently\obj\Debug\net7.0\Patiently.csproj.AssemblyReference.cache
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently\obj\Debug\net7.0\Patiently.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently\obj\Debug\net7.0\Patiently.AssemblyInfoInputs.cache
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently\obj\Debug\net7.0\Patiently.AssemblyInfo.cs
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently\obj\Debug\net7.0\Patiently.csproj.CoreCompileInputs.cache
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently\obj\Debug\net7.0\Patiently.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently\obj\Debug\net7.0\Patiently.RazorAssemblyInfo.cache
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently\obj\Debug\net7.0\Patiently.RazorAssemblyInfo.cs

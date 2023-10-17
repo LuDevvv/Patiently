@@ -1,0 +1,5 @@
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Infrastructure.Persistence\obj\Debug\net7.0\Patiently.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Infrastructure.Persistence\obj\Debug\net7.0\Patiently.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Infrastructure.Persistence\obj\Debug\net7.0\Patiently.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Infrastructure.Persistence\obj\Debug\net7.0\Patiently.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Infrastructure.Persistence\obj\Debug\net7.0\Patiently.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
