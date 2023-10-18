@@ -16,6 +16,122 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Appointments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXEFwcG9pbnRtZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Appointments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXEFwcG9pbnRtZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Appointments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXEFwcG9pbnRtZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Auth/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXEF1dGhcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXEF1dGhcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXEF1dGhcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Doctors/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXERvY3RvcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Doctors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXERvY3RvcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Doctors/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXERvY3RvcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Doctors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXERvY3RvcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Home/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXEhvbWVcTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Laboratory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXExhYm9yYXRvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Laboratory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXExhYm9yYXRvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Laboratory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXExhYm9yYXRvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Patients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXFBhdGllbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Patients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXFBhdGllbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Patients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXFBhdGllbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/TestsLaboratory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXFRlc3RzTGFib3JhdG9yeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/TestsLaboratory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXFRlc3RzTGFib3JhdG9yeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/TestsLaboratory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXFRlc3RzTGFib3JhdG9yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXFVzZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXFVzZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXFVzZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Views/Appointments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,6 +158,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Views/Doctors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Views/Doctors/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Views/Doctors/Edit.cshtml]
@@ -127,6 +247,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Patiently/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGF0aWVudGx5XFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-ag7bi496dn
 
 [C:/Users/ZHX/Desktop/Patiently/Patiently/Patiently/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s

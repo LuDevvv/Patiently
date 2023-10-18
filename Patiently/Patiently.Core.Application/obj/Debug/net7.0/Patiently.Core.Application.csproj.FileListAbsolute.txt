@@ -1,0 +1,5 @@
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Application\obj\Debug\net7.0\Patiently.Core.Application.csproj.AssemblyReference.cache
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Application\obj\Debug\net7.0\Patiently.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Application\obj\Debug\net7.0\Patiently.Core.Application.AssemblyInfoInputs.cache
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Application\obj\Debug\net7.0\Patiently.Core.Application.AssemblyInfo.cs
+C:\Users\ZHX\Desktop\Patiently\Patiently\Patiently.Core.Application\obj\Debug\net7.0\Patiently.Core.Application.csproj.CoreCompileInputs.cache
